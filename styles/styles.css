@@ -17,6 +17,7 @@
 }
 .header{
     background: #fff8F3;
+
 }
 
 /* header and navigation styles */
@@ -24,6 +25,7 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 50px 250px;
+
 }
 .nav-title{
     font-weight: 800;
@@ -31,6 +33,7 @@ nav{
 }
 nav ul{
     display: flex;
+    align-items: center;
 }
 nav li {
     list-style: none;
